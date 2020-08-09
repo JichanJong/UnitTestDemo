@@ -1,0 +1,4 @@
+C:\ProjectCode\UnitTestSln\UnitTest.Model\bin\Debug\UnitTest.Model.dll
+C:\ProjectCode\UnitTestSln\UnitTest.Model\bin\Debug\UnitTest.Model.pdb
+C:\ProjectCode\UnitTestSln\UnitTest.Model\obj\Debug\UnitTest.Model.dll
+C:\ProjectCode\UnitTestSln\UnitTest.Model\obj\Debug\UnitTest.Model.pdb

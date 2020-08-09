@@ -1,0 +1,10 @@
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.Form1.resources
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.Properties.Resources.resources
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.csproj.GenerateResource.Cache
+C:\ProjectCode\UnitTestSln\UnitTest.Win\bin\Debug\UnitTest.Win.exe
+C:\ProjectCode\UnitTestSln\UnitTest.Win\bin\Debug\UnitTest.Win.pdb
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.exe
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.pdb
+C:\ProjectCode\UnitTestSln\UnitTest.Win\bin\Debug\UnitTest.Model.dll
+C:\ProjectCode\UnitTestSln\UnitTest.Win\bin\Debug\UnitTest.Model.pdb
+C:\ProjectCode\UnitTestSln\UnitTest.Win\obj\Debug\UnitTest.Win.csprojResolveAssemblyReference.cache
