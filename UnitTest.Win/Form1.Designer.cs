@@ -28,10 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.button2 = new System.Windows.Forms.Button();
+            this.validator1 = new AICNET.Valitator.Components.Validator(this.components);
             this.SuspendLayout();
             // 
             // button1
@@ -89,9 +91,10 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button2;
+        public AICNET.Valitator.Components.Validator validator1;
+        public System.Windows.Forms.TextBox textBox1;
     }
 }
 

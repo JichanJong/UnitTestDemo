@@ -24,6 +24,7 @@ namespace UnitTest.Win
         public void button1_Click(object sender, EventArgs e)
         {
             data =  textBox1.Text;//comboBox1.SelectedValue;
+            //int i = Convert.ToInt32(data);
         }
 
         private void Form1_Load(object sender, EventArgs e)

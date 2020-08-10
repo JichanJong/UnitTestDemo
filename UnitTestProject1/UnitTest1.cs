@@ -14,11 +14,25 @@ namespace UnitTestProject1
         public void TestIsInt()
         {
             Form1 frm = new Form1();
-            frm.ShowDialog();
+            //frm.ShowDialog();
+            //frm.data = "123";
+            frm.textBox1.Text = "123";
+
+            //#region
+            //frm.validator1.SetRegularExpression(frm.textBox1, "^\\d+$");
+            //frm.validator1.SetRegularExpressionMessage(frm.textBox1, "输入的不是正整数");
+            //frm.validator1.SetType(frm.textBox1, AICNET.Valitator.Components.ValidationType.RegularExpression);
+
+            //#endregion
+
+
+
+
+            bool result = frm.validator1.Validate();
             bool isInt = CheckIsInt(frm.data);
             //bool isInt = CheckIsInt(GetFormData<object>(frm, "textBox1", "Text"));
-            Assert.AreEqual(true,isInt);
-            Assert.IsNotNull(frm.data);
+            Assert.AreEqual(true, result, "输入的文本不是整数");
+            //Assert.IsNotNull(frm.data);
             //Assert.AreEqual("",frm.data);
         }
 
